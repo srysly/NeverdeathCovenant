@@ -16,17 +16,17 @@ Zoink back to the rest of the group....
 
 We pass by...looks at the map....Number 1:  Castle Never.
 
-![Castle Never](CastleNever.png)
+![Castle Never](images/CastleNever.png)
 
 We are still being perp walked.  Not many people out this time of the day, we take the long way around Castle Never, we pass by the Hall of Justice 
 
-![Hall of Justice](HallsOfJustice.png)
+![Hall of Justice](images/HallsOfJustice.png)
 
 Gregor knows that the Hall of Justice is also a temple to a God...not sure which...but a God.  We find ourselves at the guard station.  We are led to the back where we are put in a room, a locked room, with rats...lots of rats...im not crazy.
 
 We get unmanticled, and the questioning begins.
 
-We talk for a bit when another guard comes in and W's Shaw.....![Sir](Bushed.png)
+We talk for a bit when another guard comes in and W's Shaw.....![Sir](images/Bushed.png)
 
 They found the symbol and the hand.  They ask us about it. Guard Captain stands up and leaves.  He comes back 30 minutes later, with the severed hand balled up into a fist.  On the hand is a golden signet ring, and asks if we recognize this at all?  Ramus digs deep in his grey matter and knows that it belongs to a noble house of Neverwinter. Name Embermere.  Ramus says that the signet belongs to the house that helped him as a child after his family died.  Lord Embermere helped Ramus survive on his own.  Lord Embermere has been missing for roughly 6 months.  The guards have been tearing Neverwinter apart trying to find him; however, they recently stopped the search.
 
@@ -42,7 +42,7 @@ Kaelen casts Identify on the eyeball, and learns that if you say Zhaer'thal valk
 
 Captain offers the group 500 gold each if we can bring back the hooded man or proof of what caused the massacre before dawn.
 
-Meanwhile, at the Azrael cave, he has now taken off his mask, cast disguise self -> ![Chappelle](Chappelle.png)
+Meanwhile, at the Azrael cave, he has now taken off his mask, cast disguise self -> ![Chappelle](images/Chappelle.png)
 
 He starts heading towards the guard tower.  Around 2:45 am he sees Rock and The Rollers leaving the building.  And they head straight east, deeper into the Protectors Enclave.
 
@@ -54,7 +54,7 @@ We enter to one of the pockets of the city that is known as a ruin
 
 At the end of one of the alleys is a bunch of rubble, and there is a tunnel being blocked by some moldering boards.
 
-Gregor touches his staff...![WAHT](WhatDidHeSay.png) and casts light.
+Gregor touches his staff...![WAHT](images/WhatDidHeSay.png) and casts light.
 
 We travel through the tunnels, squeeze through a tight space, open a "secret" stone door, and find a sarcophagus.  
 
